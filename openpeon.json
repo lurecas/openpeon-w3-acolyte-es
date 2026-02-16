@@ -15,18 +15,18 @@
       "sounds": [
         {
           "file": "sounds/AcolyteReady1.wav",
-          "label": "Die Verdammten stehen bereit.",
-          "sha256": "f4fa040605435d1ba66406dcfb8c5a4e073f713083ff6cf48c77a27c6e397634"
+          "label": "Los condenados están listos.",
+          "sha256": "caa12d2ef53f31919c41082a17242822ffca4edb74e374a66586af39dbc64916"
         },
         {
           "file": "sounds/AcolyteWhat1.wav",
-          "label": "Mein Leben für Ner'Zhul!",
-          "sha256": "3c8bce0fe658f22636038731cc2ac91d7f5d782e318478945ac733fd0a7a1a9e"
+          "label": "¡Mi vida por Ner'Zhul!",
+          "sha256": "054a5cbccb99efc66d9305ef24f409457192d3c1495d5402304b90be80b73764"
         },
         {
           "file": "sounds/AcolyteWhat3.wav",
-          "label": "Euer Befehl, Meister?",
-          "sha256": "4092b9bcc12b80107e07096edf0ded6cba806b7f208acd5cadeaaeb488103a1b"
+          "label": "¿Qué ordenáis señor?",
+          "sha256": "571beb0a4f142b434e9b41c1afa0e349238f9e17b8584357600f287efd87a3bc"
         }
       ]
     },
@@ -34,77 +34,67 @@
       "sounds": [
         {
           "file": "sounds/AcolyteYes1.wav",
-          "label": "Ich gehorche mit Freuden.",
-          "sha256": "407e9ca991969908a0ba45f655889c77fd24bb5273e95fab35e08c0d68c4a105"
+          "label": "Obedezco con gusto.",
+          "sha256": "06a1e2c8460111d2831f10a02c4d8443367ec1f9fbcf95b769e35b9a3a18e241"
         },
         {
           "file": "sounds/AcolyteYes2.wav",
-          "label": "Ja, Meister.",
-          "sha256": "6a74e1337e4b52f13d2fb80f4ac0179284c07b981f231f0d27545098107ce75c"
+          "label": "Sí, señor.",
+          "sha256": "5b531c8a55e8bf9aae9c5ee779b6d0db6655260b6f31901bd5f880c7d0c2b4da"
         },
         {
           "file": "sounds/AcolyteYes3.wav",
-          "label": "Mein Schicksal ist besiegelt.",
-          "sha256": "4bcca92cb0926474fcf995dbf6d2e7be3c7146c56e067778ca156d8dc89bd65b"
+          "label": "Mi destino está sellado.",
+          "sha256": "0eb6bcde69d49601010c769f4f079d5e957af2d406f7e4bf6510cc7ef8eeba74"
         },
         {
           "file": "sounds/AcolyteYes4.wav",
-          "label": "Euer Wille geschehe.",
-          "sha256": "7c68810578a9c019effbaea426a8eba2fcb935813bd2dedbd5e9e4b5ab85dc7a"
+          "label": "Así se hará.",
+          "sha256": "f89dd4a6f23e69e02e3ed4566a530ad63e454327957ce9762daba014a04dbc87"
         },
         {
           "file": "sounds/AcolyteYesAttack1.wav",
-          "label": "Der Tod soll herrschen!",
-          "sha256": "0dd338c21640c498d388d07e382a5e84de2bdf272933c0cd9763ebcbd4e43e4f"
+          "label": "Reinará la muerte.",
+          "sha256": "08fed960e6eedf245deec5adf946f7599c40fd423ad213b6679642130022d7a4"
         },
         {
           "file": "sounds/AcolyteYesAttack2.wav",
-          "label": "Fürchtet den Sensenmann!",
-          "sha256": "2d6c24b7865d57639d210a0620c85c17c3ea6e53a593c445e6917c02288ebf19"
+          "label": "¡Teme a la muerte!",
+          "sha256": "42d6e51002c00512dd9e6f3a67c68e8bcd22aa4c5398d9d58bec8bf334607e85"
         },
         {
           "file": "sounds/AcolyteYesAttack3.wav",
-          "label": "Das Leben erlösche!",
-          "sha256": "08726b8196a2cf95003aa4cfaccc1d9fa07a50a1d4e4a0ad9f16d1ddaff74ea0"
+          "label": "¡Que cese la vida!",
+          "sha256": "811b4f674eeaa220641d23a70a9c67d8aca3381f6d9697286cce2963b8663290"
         }
       ]
     },
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/AcolyteBuildingComplete1.wav",
-          "label": "Die Beschwörung ist abgeschlossen.",
-          "sha256": "315f75dd4bbd10e0da8283b8ca390290f73aafcf9b037cbcbb7e0a8bc50f9aff"
-        },
-        {
-          "file": "sounds/NecromancerResearchComplete1.wav",
-          "label": "Forschung abgeschlossen.",
-          "sha256": "458860c3332b74d12a39d25c8afdf0bc610546206531d5126b6157e81f32563a"
-        },
-        {
           "file": "sounds/AcolyteReady1.wav",
-          "label": "Die Verdammten stehen bereit.",
-          "sha256": "f4fa040605435d1ba66406dcfb8c5a4e073f713083ff6cf48c77a27c6e397634"
+          "label": "Los condenados están listos.",
+          "sha256": "caa12d2ef53f31919c41082a17242822ffca4edb74e374a66586af39dbc64916"
         },
         {
           "file": "sounds/AcolyteYes1.wav",
-          "label": "Ich gehorche mit Freuden.",
-          "sha256": "407e9ca991969908a0ba45f655889c77fd24bb5273e95fab35e08c0d68c4a105"
+          "label": "Obedezco con gusto.",
+          "sha256": "06a1e2c8460111d2831f10a02c4d8443367ec1f9fbcf95b769e35b9a3a18e241"
         },
         {
           "file": "sounds/AcolyteYes2.wav",
-          "label": "Ja, Meister.",
-          "sha256": "6a74e1337e4b52f13d2fb80f4ac0179284c07b981f231f0d27545098107ce75c"
+          "label": "Sí, señor.",
+          "sha256": "5b531c8a55e8bf9aae9c5ee779b6d0db6655260b6f31901bd5f880c7d0c2b4da"
         },
         {
           "file": "sounds/AcolyteWhat5.wav",
-          "label": "Ich beuge mich eurem Willen.",
-          "sha256": "da6a607433c87ad543b0db106781057a84b5822261d8437b281e13a134d93a9c"
+          "label": "Me inclino ante tu voluntad.",
+          "sha256": "9a24ddae15a3918c3dedc57852bf5c2be850be46ea4d73c06f25f70d8eb7c207"
         },
         {
           "file": "sounds/AcolyteWhat4.wav",
-          "label": "Wo soll mein Blut vergossen werden?",
-          "sha256": "f9bf7e4af3df14eb015c80732e685d8e6b961cfba89705f37d510d7e29a29460"
+          "label": "¿Dónde se derramará mi sangre?",
+          "sha256": "8b2eed5a7a9688e294923260dc2fc24974d1034028dafe92a7a9b6fcccb9bdde"
         }
       ]
     },
@@ -112,13 +102,13 @@
       "sounds": [
         {
           "file": "sounds/AcolyteDeath1.wav",
-          "label": "Uah.",
-          "sha256": "a2c157cc39e3921dcc33b862906787f08b4004a9ee529459fc336628d24bdd05"
+          "label": "Grito de muerte.",
+          "sha256": "d58c9b792e364b6cdff42653e5bb1e732d00691c9874827d55a5acbcd2eb8f90"
         },
         {
           "file": "sounds/AcolytePissed4.wav",
-          "label": "Lasst Blut die Schwachen ertränken!",
-          "sha256": "36bc25e651ddf99b494eda30a8ccf2b4929fcf87720a332e61777abcb0409f33"
+          "label": "Dejad que la sangre ahogue a los débiles.",
+          "sha256": "9c6d4191a709e1509996c8ca01c36dc6ab39722acd215b907f948d1f1e156492"
         }
       ]
     },
@@ -126,42 +116,42 @@
       "sounds": [
         {
           "file": "sounds/AcolyteWhat1.wav",
-          "label": "Mein Leben für Ner'Zhul!",
-          "sha256": "3c8bce0fe658f22636038731cc2ac91d7f5d782e318478945ac733fd0a7a1a9e"
+          "label": "¡Mi vida por Ner'Zhul!",
+          "sha256": "054a5cbccb99efc66d9305ef24f409457192d3c1495d5402304b90be80b73764"
         },
         {
           "file": "sounds/AcolyteWhat2.wav",
-          "label": "Ich wünsche nur zu dienen.",
-          "sha256": "7627042a97cf1153a66ab08e4fa2b48b960bdc6ca87e97f7ac50b8402b046621"
+          "label": "Solo deseo servir.",
+          "sha256": "cf9d7a10744a3a16f6ffc7cac0e9d15abd0978fa61bfb783fb2ea33cf033b239"
         },
         {
           "file": "sounds/AcolyteWhat3.wav",
-          "label": "Euer Befehl, Meister?",
-          "sha256": "4092b9bcc12b80107e07096edf0ded6cba806b7f208acd5cadeaaeb488103a1b"
+          "label": "¿Qué ordenáis, señor?",
+          "sha256": "571beb0a4f142b434e9b41c1afa0e349238f9e17b8584357600f287efd87a3bc"
         },
         {
           "file": "sounds/AcolyteWhat4.wav",
-          "label": "Wo soll mein Blut vergossen werden?",
-          "sha256": "f9bf7e4af3df14eb015c80732e685d8e6b961cfba89705f37d510d7e29a29460"
+          "label": "¿Dónde se derramará mi sangre?",
+          "sha256": "8b2eed5a7a9688e294923260dc2fc24974d1034028dafe92a7a9b6fcccb9bdde"
         },
         {
           "file": "sounds/AcolyteWhat5.wav",
-          "label": "Ich beuge mich eurem Willen.",
-          "sha256": "da6a607433c87ad543b0db106781057a84b5822261d8437b281e13a134d93a9c"
+          "label": "Me inclino ante tu voluntad.",
+          "sha256": "9a24ddae15a3918c3dedc57852bf5c2be850be46ea4d73c06f25f70d8eb7c207"
         }
       ]
     },
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/NecromancerNoFood1.wav",
-          "label": "Errichtet mehr Ziggurats!",
-          "sha256": "42dd73b600a2f4166c1d2e093a82a527a07e4c0bee93d1cc9d0b9846aaea9fe2"
+          "file": "sounds/HeroLichYesAttack3.wav",
+          "label": "El frío eterno te aguarda.",
+          "sha256": "c38aba717cbcb39721d1713ba703fed56c0623eacddfb142ffbaa57879891625"
         },
         {
-          "file": "sounds/NecromancerNoGold1.wav",
-          "label": "Es ist mehr Gold erforderlich!",
-          "sha256": "22f58f80b67cb54de137b96ac62fb99fbfaa16ac1316b9f8d3e49aee7e923349"
+          "file": "sounds/HeroLichPissed1.wav",
+          "label": "¿Podrías masticarlo por mí?",
+          "sha256": "7f44b1b3789870f008a894013b6f98b62b8d880b4dee9c64a203dc12c566fc1b"
         }
       ]
     },
@@ -169,28 +159,28 @@
       "sounds": [
         {
           "file": "sounds/AcolytePissed1.wav",
-          "label": "Dies ist die Stunde der Geißel.",
-          "sha256": "ee2d2a1a3c1c832cf80396447789411338088c366ecded36f332533b89147e05"
+          "label": "¡Esta es la hora del azote!",
+          "sha256": "6a46c92b785706fcaf3e2a4070725dd474617aa4a5b6ceab8e87ef1b0f4ab58c"
         },
         {
           "file": "sounds/AcolytePissed2.wav",
-          "label": "Tod soll die Welt säubern.",
-          "sha256": "ebecc508c4a4232cc0dfd6fc81f8980e2aac76791609c09fc768e95346bffca4"
+          "label": "La muerte limpiará el mundo.",
+          "sha256": "02f4c0f2377369f23ae0330742dc7823c4d8250b363e2ce001aeef51699da1f8"
         },
         {
           "file": "sounds/AcolytePissed3.wav",
-          "label": "Ich sehe nur Schwärze... oh, ich habe die Kapuze unten.",
-          "sha256": "61d3f2e57e26052004cb244302338433d6fc534303e0fa9f40df91f689c9fadd"
+          "label": "¡Oh! ¿Quién ha pagado la luz? ¡Oh, vaya, tengo la capucha bajada!",
+          "sha256": "c19cb1a9d1bcc600a0ac69aeed52bb56385ed2673c38bbaa9d9b7e4f8f689901"
         },
         {
           "file": "sounds/AcolytePissed7.wav",
-          "label": "Möchtet Ihr das Geheimnis ewigen Glücks wissen? Seite 246.",
-          "sha256": "b3631ddfd69008dd7af5bb994c75a9d326377f9d4f1e757a57545000e83d6b7c"
+          "label": "¿Quieres saber cuál es el secreto de la eterna felicidad? Pagina 246.",
+          "sha256": "c71d392d94f6bad96fee00b426b87866b12125ad741d732d0f126f39943c4540"
         },
         {
           "file": "sounds/AcolytePissed8.wav",
-          "label": "Beschreitet Ihr erst den dunklen Weg, wird er für immer Euer Schicksal bestimmen... und Ihr seid pflegeversichert.",
-          "sha256": "2e249e1dc35791a35f3714f18467211fc5a67d4727a4b027cf3111329ffac363"
+          "label": "Sabes cuándo entras, pero nunca sabes cuándo sales y encima te arreglan las muelas gratis.",
+          "sha256": "f060b7ae53f94f86898618a808c33cd177df3db99ceda7d2a91badaeaf0282fd"
         }
       ]
     }
