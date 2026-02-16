@@ -16,17 +16,17 @@
         {
           "file": "sounds/AcolyteReady1.wav",
           "label": "Los condenados están listos.",
-          "sha256": ""
+          "sha256": "caa12d2ef53f31919c41082a17242822ffca4edb74e374a66586af39dbc64916"
         },
         {
           "file": "sounds/AcolyteWhat1.wav",
           "label": "¡Mi vida por Ner'Zhul!",
-          "sha256": ""
+          "sha256": "054a5cbccb99efc66d9305ef24f409457192d3c1495d5402304b90be80b73764"
         },
         {
           "file": "sounds/AcolyteWhat3.wav",
           "label": "¿Qué ordenáis señor?",
-          "sha256": ""
+          "sha256": "571beb0a4f142b434e9b41c1afa0e349238f9e17b8584357600f287efd87a3bc"
         }
       ]
     },
@@ -35,37 +35,37 @@
         {
           "file": "sounds/AcolyteYes1.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "06a1e2c8460111d2831f10a02c4d8443367ec1f9fbcf95b769e35b9a3a18e241"
         },
         {
           "file": "sounds/AcolyteYes2.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "5b531c8a55e8bf9aae9c5ee779b6d0db6655260b6f31901bd5f880c7d0c2b4da"
         },
         {
           "file": "sounds/AcolyteYes3.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "0eb6bcde69d49601010c769f4f079d5e957af2d406f7e4bf6510cc7ef8eeba74"
         },
         {
           "file": "sounds/AcolyteYes4.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "f89dd4a6f23e69e02e3ed4566a530ad63e454327957ce9762daba014a04dbc87"
         },
         {
           "file": "sounds/AcolyteYesAttack1.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "08fed960e6eedf245deec5adf946f7599c40fd423ad213b6679642130022d7a4"
         },
         {
           "file": "sounds/AcolyteYesAttack2.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "42d6e51002c00512dd9e6f3a67c68e8bcd22aa4c5398d9d58bec8bf334607e85"
         },
         {
           "file": "sounds/AcolyteYesAttack3.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "811b4f674eeaa220641d23a70a9c67d8aca3381f6d9697286cce2963b8663290"
         }
       ]
     },
@@ -84,27 +84,27 @@
         {
           "file": "sounds/AcolyteReady1.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "caa12d2ef53f31919c41082a17242822ffca4edb74e374a66586af39dbc64916"
         },
         {
           "file": "sounds/AcolyteYes1.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "06a1e2c8460111d2831f10a02c4d8443367ec1f9fbcf95b769e35b9a3a18e241"
         },
         {
           "file": "sounds/AcolyteYes2.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "5b531c8a55e8bf9aae9c5ee779b6d0db6655260b6f31901bd5f880c7d0c2b4da"
         },
         {
           "file": "sounds/AcolyteWhat5.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "9a24ddae15a3918c3dedc57852bf5c2be850be46ea4d73c06f25f70d8eb7c207"
         },
         {
           "file": "sounds/AcolyteWhat4.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "8b2eed5a7a9688e294923260dc2fc24974d1034028dafe92a7a9b6fcccb9bdde"
         }
       ]
     },
@@ -113,12 +113,12 @@
         {
           "file": "sounds/AcolyteDeath1.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "d58c9b792e364b6cdff42653e5bb1e732d00691c9874827d55a5acbcd2eb8f90"
         },
         {
           "file": "sounds/AcolytePissed4.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "9c6d4191a709e1509996c8ca01c36dc6ab39722acd215b907f948d1f1e156492"
         }
       ]
     },
@@ -127,27 +127,27 @@
         {
           "file": "sounds/AcolyteWhat1.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "054a5cbccb99efc66d9305ef24f409457192d3c1495d5402304b90be80b73764"
         },
         {
           "file": "sounds/AcolyteWhat2.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "cf9d7a10744a3a16f6ffc7cac0e9d15abd0978fa61bfb783fb2ea33cf033b239"
         },
         {
           "file": "sounds/AcolyteWhat3.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "571beb0a4f142b434e9b41c1afa0e349238f9e17b8584357600f287efd87a3bc"
         },
         {
           "file": "sounds/AcolyteWhat4.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "8b2eed5a7a9688e294923260dc2fc24974d1034028dafe92a7a9b6fcccb9bdde"
         },
         {
           "file": "sounds/AcolyteWhat5.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "9a24ddae15a3918c3dedc57852bf5c2be850be46ea4d73c06f25f70d8eb7c207"
         }
       ]
     },
@@ -170,27 +170,27 @@
         {
           "file": "sounds/AcolytePissed1.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "6a46c92b785706fcaf3e2a4070725dd474617aa4a5b6ceab8e87ef1b0f4ab58c"
         },
         {
           "file": "sounds/AcolytePissed2.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "02f4c0f2377369f23ae0330742dc7823c4d8250b363e2ce001aeef51699da1f8"
         },
         {
           "file": "sounds/AcolytePissed3.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "c19cb1a9d1bcc600a0ac69aeed52bb56385ed2673c38bbaa9d9b7e4f8f689901"
         },
         {
           "file": "sounds/AcolytePissed7.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "c71d392d94f6bad96fee00b426b87866b12125ad741d732d0f126f39943c4540"
         },
         {
           "file": "sounds/AcolytePissed8.wav",
           "label": "",
-          "sha256": ""
+          "sha256": "f060b7ae53f94f86898618a808c33cd177df3db99ceda7d2a91badaeaf0282fd"
         }
       ]
     }
