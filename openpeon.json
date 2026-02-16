@@ -72,16 +72,6 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/AcolyteBuildingComplete1.wav",
-          "label": "",
-          "sha256": ""
-        },
-        {
-          "file": "sounds/NecromancerResearchComplete1.wav",
-          "label": "",
-          "sha256": ""
-        },
-        {
           "file": "sounds/AcolyteReady1.wav",
           "label": "",
           "sha256": "caa12d2ef53f31919c41082a17242822ffca4edb74e374a66586af39dbc64916"
