@@ -146,12 +146,12 @@
         {
           "file": "sounds/HeroLichYesAttack3.wav",
           "label": "El frío eterno te aguarda.",
-          "sha256": ""
+          "sha256": "c38aba717cbcb39721d1713ba703fed56c0623eacddfb142ffbaa57879891625"
         },
         {
           "file": "sounds/HeroLichPissed1.wav",
           "label": "¿Podrías masticarlo por mí?",
-          "sha256": ""
+          "sha256": "7f44b1b3789870f008a894013b6f98b62b8d880b4dee9c64a203dc12c566fc1b"
         }
       ]
     },
