@@ -154,13 +154,13 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/NecromancerNoFood1.wav",
-          "label": "",
+          "file": "sounds/HeroLichYesAttack3.wav",
+          "label": "El frío eterno te aguarda.",
           "sha256": ""
         },
         {
-          "file": "sounds/NecromancerNoGold1.wav",
-          "label": "",
+          "file": "sounds/HeroLichPissed1.wav",
+          "label": "¿Podrías masticarlo por mí?",
           "sha256": ""
         }
       ]
