@@ -1,0 +1,11 @@
+# macOS Finder metadata
+.DS_Store
+
+# Windows Explorer metadata
+Thumbs.db
+Desktop.ini
+
+# Common temporary editor/navigation files
+*.swp
+*.swo
+*~
